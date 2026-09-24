@@ -1,0 +1,13 @@
+{
+  "repo": "minimaxm3-minimax-m3-api",
+  "model": "minimax-m3",
+  "display": "MiniMax M3",
+  "variant": "llm",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_million_tokens",
+  "tiers": {
+    "input": 0.24,
+    "output": 0.96
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
