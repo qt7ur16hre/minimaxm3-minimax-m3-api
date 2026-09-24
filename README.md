@@ -2,7 +2,7 @@
 
 > **input $0.24; output $0.96** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-1d5d5c)** · **[Get an API key](https://go.apimart.ai/k-dfef7b)**
 
 Everything here refers to **minimax-m3** — also written **minimaxm3** or **minimax m3**.
 
